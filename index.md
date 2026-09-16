@@ -27,3 +27,4 @@ macOS 14.0 以降。
 
 - [サポート・よくある質問]({{ site.baseurl }}/support/)
 - [プライバシーポリシー]({{ site.baseurl }}/privacy/)
+- [English]({{ site.baseurl }}/en/)
