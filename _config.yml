@@ -6,7 +6,7 @@
 # **このリポジトリは公開される。アプリのソースや申請メモを入れないこと。**
 # ソースと内部資料は ~/Projects/utsushi-pdf/（非公開）にある。
 #
-# 公開URL: https://hobcraft.github.io/utsushipdf-pages/
+# 公開URL: https://hobcraft.github.io/utsushipdf/
 title: Utsushi PDF
 description: Word・Excel・PowerPoint・Pages・Keynote・Numbers をドラッグ&ドロップで個別のPDFに一括変換するmacOSアプリ
 lang: ja
