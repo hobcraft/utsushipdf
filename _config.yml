@@ -1,0 +1,17 @@
+# GitHub Pages の設定。
+#
+# プライバシーポリシーとサポートの公開URLが要る（配布サービス申請・決済サービス登録用）。
+# アプリ本体はサーバーを持たないので、ページだけをこのリポジトリから出す。
+#
+# **このリポジトリは公開される。アプリのソースや申請メモを入れないこと。**
+# ソースと内部資料は ~/Projects/utsushi-pdf/（非公開）にある。
+#
+# 公開URL: https://hobcraft.github.io/utsushipdf-pages/
+title: Utsushi PDF
+description: Word・Excel・PowerPoint・Pages・Keynote・Numbers をドラッグ&ドロップで個別のPDFに一括変換するmacOSアプリ
+lang: ja
+
+theme: jekyll-theme-primer
+
+exclude:
+  - README.md
