@@ -11,6 +11,8 @@ Word・Excel・PowerPoint・Pages・Keynote・Numbers を、ドラッグ&ドロ�
 
 **ファイルの内容も名前も、インターネットに出ることはありません。** 変換はすべて端末内で完結します。
 
+![ファイルをドロップする画面]({{ site.baseurl }}/assets/screenshot-dropzone.png)
+
 ## できること
 
 - Word・Excel・PowerPoint・Pages・Keynote・Numbers を PDF に変換
@@ -18,6 +20,8 @@ Word・Excel・PowerPoint・Pages・Keynote・Numbers を、ドラッグ&ドロ�
 - まとめてドロップして一括変換
 - 変換先は「元と同じ場所」か「指定フォルダ」を選択
 - 同名のファイルは上書きせず、番号を付けて隣に保存
+
+![変換結果の画面（ダミーファイルで撮影）]({{ site.baseurl }}/assets/screenshot-result.png)
 
 ## 動作環境
 
