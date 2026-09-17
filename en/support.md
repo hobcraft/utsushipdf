@@ -63,6 +63,11 @@ Try downloading it again, or check whether the original app can still open it.
 Choose in **Output** at the top of the window: next to the original file (the default),
 or a folder you pick.
 
+## Requirements
+
+- macOS 14.0 or later
+- Works on both Apple silicon and Intel Macs
+
 ## Privacy
 
 [Privacy Policy]({{ site.baseurl }}/en/privacy/)

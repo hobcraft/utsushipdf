@@ -24,7 +24,7 @@ never merged).
 
 ## Requirements
 
-macOS 14.0 or later.
+macOS 14.0 or later. Works on both Apple silicon and Intel Macs.
 
 ## Links
 

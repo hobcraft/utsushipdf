@@ -25,7 +25,7 @@ Word・Excel・PowerPoint・Pages・Keynote・Numbers を、ドラッグ&ドロ�
 
 ## 動作環境
 
-macOS 14.0 以降。
+macOS 14.0 以降／Apple シリコン・Intel の両方に対応。
 
 ## リンク
 
