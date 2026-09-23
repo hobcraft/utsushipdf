@@ -8,7 +8,7 @@ permalink: /en/privacy/
 
 # Utsushi PDF Privacy Policy
 
-Last updated: September 16, 2026
+Last updated: September 23, 2026
 
 Utsushi PDF (“the app”) collects no personal information.
 
@@ -28,19 +28,19 @@ Privacy & Security → Analytics & Improvements.
 The app reads the files you drag and drop, and writes the resulting PDFs, entirely on
 your Mac. None of this leaves your device, and the developer cannot see any of it.
 
-## Files installed by First-Time Setup
+## Access to the folders PDFs are saved in
 
-With your permission, the app saves a few settings files that let Word, Excel, PowerPoint, Pages,
-Keynote and Numbers export PDFs. They go into the app’s own folder (Library → Application Scripts).
-Their contents are fixed: they are not downloaded and never change afterwards. Delete that folder to remove them.
+The app saves each PDF next to the original, or in a folder you choose. The first time it saves into a
+folder, it asks you to allow access to that folder. Allowed folders are remembered on your Mac, so you
+are asked only once. The app writes nothing but the PDFs, and nothing anywhere else.
 
 ## Permissions macOS asks for
 
 The first time you convert each format, macOS asks for:
 
 - permission to control the relevant app (Automation)
-- permission to close a start-up dialog in that app (Accessibility)
-- permission to receive the PDF written by Word, Excel or PowerPoint (Data from other apps)
+- access to the folder the PDF is saved in (once per folder)
+- for Excel files, Excel itself also asks for access to that folder (once per folder)
 
 All of these are needed for the conversion itself. None of them sends your files anywhere.
 

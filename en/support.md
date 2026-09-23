@@ -32,16 +32,19 @@ No. The source file is never modified — the app only creates a new PDF.
 That is expected — it launches automatically to do the conversion. Please leave it alone
 until conversion finishes; using it partway through can interrupt the conversion.
 
-### A “First-Time Setup” screen appears
+### A folder window appears the first time I save into a folder
 
-It installs the settings Word, Pages and the other apps need to export PDFs. It happens once.
-Click Install, and when the folder dialog opens, click Install again without changing the folder.
-The files go only into this app’s own folder, and nothing is sent anywhere. You can read the files on that screen.
-You can reopen it any time from Help → About the Conversion Settings….
+It asks you to allow saving PDFs in that folder. Keep the folder selected and click Allow.
+It happens once per folder. If you declined, convert again and the same window appears.
 
-### macOS asked to “control” an app, or to “access data from other apps”
+### Excel shows “Grant File Access” for Excel files
 
-Both are needed so the PDF can be exported, and each appears once per format.
+That is Excel’s own check before it writes a PDF into the folder.
+Click Select…, keep the folder as it is, and click Grant Access. Excel remembers it, so it happens once per folder.
+
+### macOS asked to “control” an app
+
+It is needed so the PDF can be exported, and it appears once per format.
 If you decline, that format can’t be converted. Nothing about the file’s contents is sent anywhere.
 
 ### I declined and now it won’t convert
