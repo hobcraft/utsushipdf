@@ -32,10 +32,26 @@ No. The source file is never modified — the app only creates a new PDF.
 That is expected — it launches automatically to do the conversion. Please leave it alone
 until conversion finishes; using it partway through can interrupt the conversion.
 
-### It asked to control another application the first time
+### A “First-Time Setup” screen appears
 
-That confirmation is required for the conversion itself. If you decline, that file
-format can’t be converted. Nothing about the file’s contents is ever sent anywhere.
+It installs the settings Word, Pages and the other apps need to export PDFs. It happens once.
+Click Install, and when the folder dialog opens, click Install again without changing the folder.
+The files go only into this app’s own folder, and nothing is sent anywhere. You can read the files on that screen.
+You can reopen it any time from Help → About the Conversion Settings….
+
+### macOS asked to “control” an app, or to “access data from other apps”
+
+Both are needed so the PDF can be exported, and each appears once per format.
+If you decline, that format can’t be converted. Nothing about the file’s contents is sent anywhere.
+
+### I declined and now it won’t convert
+
+Click “Open Settings” on the results screen to jump to the right page in System Settings.
+Turn on Utsushi PDF there, then click “Convert Again”.
+
+### Can I choose files without dragging?
+
+Yes. Use “Choose Files…” at the top right, or File → Choose Files… (⌘O). You can select several at once.
 
 ### What happens if two files share a name?
 

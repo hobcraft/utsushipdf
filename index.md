@@ -17,7 +17,7 @@ Word・Excel・PowerPoint・Pages・Keynote・Numbers を、ドラッグ&ドロ�
 
 - Word・Excel・PowerPoint・Pages・Keynote・Numbers を PDF に変換
 - 画像をそのまま1ページの PDF に変換
-- まとめてドロップして一括変換
+- まとめてドロップ、または「ファイルを選択…」から複数選んで一括変換
 - 変換先は「元と同じ場所」か「指定フォルダ」を選択
 - 同名のファイルは上書きせず、番号を付けて隣に保存
 

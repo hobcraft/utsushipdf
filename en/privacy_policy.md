@@ -28,12 +28,21 @@ Privacy & Security → Analytics & Improvements.
 The app reads the files you drag and drop, and writes the resulting PDFs, entirely on
 your Mac. None of this leaves your device, and the developer cannot see any of it.
 
-## Permission to control other apps
+## Files installed by First-Time Setup
 
-To convert Word, Excel, PowerPoint, Pages, Keynote and Numbers files, the app operates
-those applications directly. The first time you convert a given file type, macOS asks
-you to allow the app to control that application. This permission is required for the
-conversion itself — it does not send your file contents anywhere.
+With your permission, the app saves a few settings files that let Word, Excel, PowerPoint, Pages,
+Keynote and Numbers export PDFs. They go into the app’s own folder (Library → Application Scripts).
+Their contents are fixed: they are not downloaded and never change afterwards. Delete that folder to remove them.
+
+## Permissions macOS asks for
+
+The first time you convert each format, macOS asks for:
+
+- permission to control the relevant app (Automation)
+- permission to close a start-up dialog in that app (Accessibility)
+- permission to receive the PDF written by Word, Excel or PowerPoint (Data from other apps)
+
+All of these are needed for the conversion itself. None of them sends your files anywhere.
 
 ## Sharing with third parties
 
